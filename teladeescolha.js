@@ -1,1 +1,3 @@
-†0ù¶¦%ñƒî˜µî^;Êž¸+º[† ÝÎªoò²Ô¸ÎRô—_ûÌCÀ?ÃOìÇ†×Š}åIpxAš­v4
+function navigateTo(page) {
+    window.location.href = page;
+}
